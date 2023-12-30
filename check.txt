@@ -1,4 +1,4 @@
 this file for checking
 
 
-this content valid only for newfeature2
+this content valid only for newfeature2g
